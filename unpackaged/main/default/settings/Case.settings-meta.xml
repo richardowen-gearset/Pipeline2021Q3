@@ -11,9 +11,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>ro-dev1@gearset.pipelines.com</defaultCaseOwner>
+    <defaultCaseOwner>ro-dev3@gearset.pipelines.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>ro-dev1@gearset.pipelines.com</defaultCaseUser>
+    <defaultCaseUser>ro-dev3@gearset.pipelines.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>

@@ -4,7 +4,7 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>ro-dev1@gearset.pipelines.com</assignedTo>
+            <assignedTo>ro-dev3@gearset.pipelines.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -13,7 +13,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>ro-dev1@gearset.pipelines.com</assignedTo>
+            <assignedTo>ro-dev3@gearset.pipelines.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
