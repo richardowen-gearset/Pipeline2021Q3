@@ -133,6 +133,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Contact_information__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.CustomerPriority__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -174,6 +179,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.NaicsDesc</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.New_account_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
