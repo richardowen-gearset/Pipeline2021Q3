@@ -218,6 +218,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.Second_new_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Case.Super_Important_Case_Info__c</field>
         <readable>true</readable>
     </fieldPermissions>
