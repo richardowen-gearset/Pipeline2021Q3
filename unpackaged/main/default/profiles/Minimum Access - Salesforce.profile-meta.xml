@@ -493,12 +493,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Opportunity.Opportunity_call_details__c</field>
+        <field>Opportunity.New_lead_contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Opportunity.Opportunity_pre_call_details__c</field>
+        <field>Opportunity.Opportunity_call_details__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
